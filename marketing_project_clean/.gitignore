@@ -1,0 +1,15 @@
+# ── Credentials (NEVER commit these) ──
+config.php
+
+# ── macOS junk ──
+.DS_Store
+__MACOSX/
+._*
+
+# ── Editor ──
+.vscode/
+.idea/
+
+# ── PHP logs ──
+*.log
+error_log
